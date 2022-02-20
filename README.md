@@ -1,2 +1,2 @@
 # Glozzom
-Smart data project_Udemy course
+Bootstarp5 project (Udemy course)
